@@ -1,0 +1,6 @@
+{
+  "name": "SDLC Ticketing System",
+  "description": "A self-contained Software Development Life Cycle ticketing system with a beautiful Glassmorphism design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
